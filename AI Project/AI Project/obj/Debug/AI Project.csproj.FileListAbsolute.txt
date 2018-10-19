@@ -1,0 +1,18 @@
+C:\Users\Ali\Desktop\AI Project\AI Project\bin\Debug\AI Project.exe.config
+C:\Users\Ali\Desktop\AI Project\AI Project\bin\Debug\AI Project.exe
+C:\Users\Ali\Desktop\AI Project\AI Project\bin\Debug\AI Project.pdb
+C:\Users\Ali\Desktop\AI Project\AI Project\obj\Debug\AI Project.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\AI Project\AI Project\obj\Debug\AI Project.exe
+C:\Users\Ali\Desktop\AI Project\AI Project\obj\Debug\AI Project.pdb
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.exe.config
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.exe
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.pdb
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.exe
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.pdb
+I:\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.csprojResolveAssemblyReference.cache
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.exe.config
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.exe
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.pdb
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.exe
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\bin\Debug\AI Project.pdb
+D:\Software ENG\class & homework\term 6\AI\9250025-9250012\AI Project\AI Project\obj\Debug\AI Project.csprojResolveAssemblyReference.cache

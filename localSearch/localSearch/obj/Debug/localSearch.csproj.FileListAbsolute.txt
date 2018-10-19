@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\bin\Debug\localSearch.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\bin\Debug\localSearch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\bin\Debug\localSearch.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\obj\Debug\localSearch.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\obj\Debug\localSearch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\localSearch\localSearch\obj\Debug\localSearch.pdb
+C:\Users\Ali\Downloads\Telegram Desktop\localSearch\localSearch\bin\Debug\localSearch.exe.config
+C:\Users\Ali\Downloads\Telegram Desktop\localSearch\localSearch\obj\Debug\localSearch.exe
+C:\Users\Ali\Downloads\Telegram Desktop\localSearch\localSearch\obj\Debug\localSearch.pdb
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\bin\Debug\localSearch.exe.config
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\obj\Debug\localSearch.exe
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\obj\Debug\localSearch.pdb
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\bin\Debug\localSearch.exe
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\bin\Debug\localSearch.pdb
+I:\class & homework\term 6\AI\9250025-9250012\localSearch\localSearch\obj\Debug\localSearch.csprojResolveAssemblyReference.cache
